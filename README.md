@@ -1,4 +1,4 @@
- 👋🏼 Hi, I'm Danielle Casa @DCClara, A junior front-end developer and recent graduate of SheCodes workshops. I am continuing my education with Udemy in Javascript: The Advanced Concepts. I'm also looking to pursue UI, as well.
+ 👋🏼 Hi, I'm Danielle Casa @DCClara, A junior front-end developer and recent graduate of SheCodes Front-end workshops. I am continuing my education with SheCodes Python workshops and looking to pursue back-end engineering, as well.
  🌱 I'm skilled in JavaScript, React, responsive design, and UX. 
  💞️ My portfolio is here: https://dcasacodez.netlify.app
  📫 Reach me at my email: casa.danielle@icloud.com
